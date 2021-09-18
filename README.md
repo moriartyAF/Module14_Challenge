@@ -20,3 +20,6 @@ Modified SMA Fast ---> 50:
 
 ![Module14_Chart5](https://user-images.githubusercontent.com/35455504/133692452-f8b727c0-1167-41cf-97fa-6c278525615e.png)
 
+Change ML Classifier to LinearRegression:
+
+![Module14_Challenge Chart 6](https://user-images.githubusercontent.com/35455504/133891010-35bd6e2f-d8ae-44a5-909f-94870b0948af.png)
